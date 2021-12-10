@@ -1,0 +1,17 @@
+.body{
+    background-color: yellow;
+}
+.h1{
+    text-align: center;
+    color: red;
+}
+.btn{
+    text-align: center;
+}
+.but{
+    border-radius: 10px;
+    background-color: springgreen;
+}
+.but:hover{
+    background-color: tomato;
+}
