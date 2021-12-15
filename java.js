@@ -1,3 +1,3 @@
 function sang(){
-    window.location="https://collins-shore-emission-constraints.trycloudflare.com"
+    window.location="https://dead-glow-organized-behavioral.trycloudflare.com"
 }
